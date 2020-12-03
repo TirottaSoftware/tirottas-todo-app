@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(180deg, rgba(255,95,109,1) 0%, rgba(255,195,113,1) 100%);
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    height:100%;
+}
+html{
+    height:100%;
+}
+@media screen and (max-width: 850px){
+ body{
+     overflow-y :unset;
+ }
+}

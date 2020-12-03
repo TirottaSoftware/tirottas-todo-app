@@ -1,0 +1,92 @@
+
+.title{
+  white-space:nowrap;
+  font-size: 7vw;
+  text-align: center;
+  color:white;
+  font-family: 'Nerko One', cursive;
+  margin: 0;
+  font-weight: 400;
+}
+.login-container {
+  display: flex;
+  justify-content: space-between;
+  width: 70vw;
+  margin: 0 15%;
+}
+.login-form,
+.signup-form {
+  background: rgba(255, 255, 255, 0.701);
+  display: flex;
+  flex-flow: column;
+  width: 40%;
+  padding: 5% 5%;
+  margin: 10vh 1% ;
+  line-height: 1vh;
+}
+.login-form input,
+.signup-form input {
+  outline: none;
+  font-family: 'Dosis', sans-serif;
+  font-size: 1.75vw;
+  margin-top: 5px;
+}
+#btn-login,
+#btn-signup {
+  border: none;
+  cursor:pointer;
+  padding: 2% 0;
+  margin-top: 10px;
+  background: linear-gradient(90deg, rgba(123,67,151,1) 0%, rgba(220,36,48,1) 100%);
+  color: white;
+  outline: none;
+  font-size: 1.5vw;
+}
+.login-form h1,
+.signup-form h1 {
+  text-align: center;
+  font-size: 3vw;
+  font-family: 'Poppins', sans-serif;
+  text-transform: uppercase;
+  margin-bottom: 10%;
+  color:rgba(123,67,151,1);
+}
+#error-message{
+  margin-top: 5%;
+  text-align:center; 
+  color:red;
+}
+::placeholder{
+  font-size: 1.5vw;
+}
+
+@media screen and (max-width: 850px){
+  
+  .login-container {
+    display: flex;
+    flex-flow:column;
+    width: 100%;
+    margin: 0 10%;
+  }
+    .login-form,
+  .signup-form{
+    width:40%;
+    margin: 5% 15%;
+    padding: 5%
+  }
+  .login-form h1,
+  .signup-form h1 {
+  font-size: 5vh;
+  }
+  .login-form input,
+  .signup-form input {
+    font-size: 3vh;
+  }
+  ::placeholder{
+    font-size: 2.6vh
+  }
+  #btn-login,
+  #btn-signup {
+    font-size: 2.5vh
+  }
+}
