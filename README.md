@@ -35,9 +35,14 @@ Future remaster of the app will contain:
 ## Screenshots of the app 
 
 ### Home page - Desktop
+### Home Page - Desktop
 ![alt text](https://github.com/TirottaSoftware/tirottas-todo-app/blob/master/screenshots/home.PNG)
 ### Account Settings - Desktop
 ![alt text](https://github.com/TirottaSoftware/tirottas-todo-app/blob/master/screenshots/settings.PNG)
+### Login Page - Desktop
+![alt text](https://github.com/TirottaSoftware/tirottas-todo-app/blob/master/screenshots/login.PNG)
+### Login Page - Mobile
+![alt text](https://github.com/TirottaSoftware/tirottas-todo-app/blob/master/screenshots/login-mobile.PNG)
 ### Home Page - Mobile
 ![alt text](https://github.com/TirottaSoftware/tirottas-todo-app/blob/master/screenshots/home-mobile.PNG)
 ### Account Settings - Mobile
