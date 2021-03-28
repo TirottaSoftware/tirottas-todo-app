@@ -34,4 +34,11 @@ Future remaster of the app will contain:
 * Firebase by Google
 ## Screenshots of the app 
 
+### Home page - Desktop
 ![alt text](https://github.com/TirottaSoftware/tirottas-todo-app/blob/master/screenshots/home.PNG)
+### Account Settings - Desktop
+![alt text](https://github.com/TirottaSoftware/tirottas-todo-app/blob/master/screenshots/settings.PNG)
+### Home Page - Mobile
+![alt text](https://github.com/TirottaSoftware/tirottas-todo-app/blob/master/screenshots/home-mobile.PNG)
+### Account Settings - Mobile
+![alt text](https://github.com/TirottaSoftware/tirottas-todo-app/blob/master/screenshots/settings-mobile.PNG)
