@@ -4,7 +4,7 @@ A Simple  ToDo List application where people can keep track of their most import
 1. Visit [Tirotta's ToDo App](https://auth-practice-c0698.web.app)
 2. Sign up and Login in your account
 3. Add your tasks to the todo list
-4. Click on a task to complete/incomplete it
+4. Click on a task to complete it (Click again to undo)
 5. Click on the X button to remove a task from the list
 
 	### Complete All 
