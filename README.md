@@ -33,3 +33,5 @@ Future remaster of the app will contain:
 * CSS3
 * Firebase by Google
 ## Screenshots of the app 
+
+![alt text](https://github.com/TirottaSoftware/tirottas-todo-app/blob/master/screenshots/home.PNG)
